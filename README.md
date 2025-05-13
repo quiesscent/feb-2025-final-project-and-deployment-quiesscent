@@ -22,4 +22,11 @@ Create a well-structured HTML5 document.
 Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
+## Deployment Link
+
+```bash
+https://plp-portfolio-vert.vercel.app/
+
+```
+
 Good luck and happy coding! 🚀💻
